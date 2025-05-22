@@ -5,6 +5,7 @@
 ### Sumário
 1. Teoria e conceitos
 2. Prática e Matlab
+3. Prova modelo
 
 ## 1. Teoria e conceitos
 
@@ -229,7 +230,4 @@ y = (7 - x)/3
 x = 2.25
 y = 1.58333
 ```
-
----
-
-Se quiser mais exemplos, mais iterações ou explicações para cada resultado, é só pedir!
+## 2. Prática e Matlab
