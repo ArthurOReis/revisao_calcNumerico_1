@@ -231,3 +231,9 @@ x = 2.25
 y = 1.58333
 ```
 ## 2. Prática e Matlab
+
+## 3. Prova
+
+Aqui abaixo podemos ver a prova exemplo de cálculo numérico:
+
+![prova.pdf](prova.pdf)
